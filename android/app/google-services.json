@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132657625645",
+    "project_id": "regis-ee5a5",
+    "storage_bucket": "regis-ee5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132657625645:android:7b52de1d2be6bb658c56a4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132657625645-ulfbcbtjqp90rsb7bmlg5jotqhog72s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhairu_Fl4O52dNvlbwY-U5BkIQTpvgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132657625645-ulfbcbtjqp90rsb7bmlg5jotqhog72s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
